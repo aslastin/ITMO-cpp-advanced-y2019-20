@@ -25,8 +25,8 @@ add_subdirectory(
 set(CMAKE_CXX_FLAGS_DEBUG "${CMAKE_CXX_FLAGS_DEBUG} -D_GLIBCXX_DEBUG")
 
 add_executable(signal_testing
-    signals.h
-    signals_testing.cpp intrusive_list.h intrusive_list.cpp)
+        src/signals.h
+        test/signals_testing.cpp src/intrusive_list.h src/intrusive_list.cpp)
 
 set_property(TARGET signal_testing PROPERTY CXX_STANDARD 17)
 
