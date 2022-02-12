@@ -8,8 +8,8 @@
 
 ## C++ tasks
 
-- [bimap](https://github.com/aslastin/ITMO-cpp-advanced-y2020-21/tree/main/bimap)
 - [variant](https://github.com/aslastin/ITMO-cpp-advanced-y2020-21/tree/main/variant)
+- [bimap](https://github.com/aslastin/ITMO-cpp-advanced-y2020-21/tree/main/bimap)
 - [shared_ptr](https://github.com/aslastin/ITMO-cpp-advanced-y2020-21/tree/main/shared_ptr)
 - [function](https://github.com/aslastin/ITMO-cpp-advanced-y2020-21/tree/main/function)
 - [optional](https://github.com/aslastin/ITMO-cpp-advanced-y2020-21/tree/main/optional)
