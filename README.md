@@ -8,11 +8,7 @@
 
 ## C++ tasks
 
-- __bimap__
-  - _[Условие](https://sorokin.github.io/cpp-course/bimap.html)_
-  - Реализация: 
-      - [bimap.h](https://github.com/aslastin/ITMO-cpp-advanced-y2020-21/blob/main/bimap/bimap.h) 
-
+- [bimap](https://github.com/aslastin/ITMO-cpp-advanced-y2020-21/tree/main/bimap)
 - __variant__
   - _Условие_ - реализовать свой `std::variant`
   - Реализация: 
