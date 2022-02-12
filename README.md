@@ -1,10 +1,12 @@
 ## Preface
 
-Репозиторий содержит выполненные лично домашние задания продвинутого курса C++ в 3 семестре. Проект создан __исключительно__ для отражения учебной деятельности. Автор __не несет ответственности__ за действия людей, решивших за чужой счет сдать задания, предоставив код из данного репозитория.
+The repository contains personally completed homework assignments of an advanced C++ course in the 3rd term.
 
-Также к каждой реализации ниже прилагаются тесты.
+The project was created __exclusively__ to reflect educational activities. The author __is not responsible__ for the actions of people who decided to submit tasks by providing the code from this repository.
 
-А теперь, если вы готовы лицезреть качественный (или не очень) код, то приятного просмотра!
+Tests are attached to each implementation below.
+
+Finally if you are ready to contemplate high-quality (or not) code then enjoy watching!
 
 ## C++ tasks
 
