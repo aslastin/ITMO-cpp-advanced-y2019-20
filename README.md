@@ -9,31 +9,8 @@
 ## C++ tasks
 
 - [bimap](https://github.com/aslastin/ITMO-cpp-advanced-y2020-21/tree/main/bimap)
-- __variant__
-  - _Условие_ - реализовать свой `std::variant`
-  - Реализация: 
-      - [variant.h](https://github.com/aslastin/ITMO-cpp-advanced-y2020-21/blob/main/variant/variant.h)
-      - [variant_visitor.h](https://github.com/aslastin/ITMO-cpp-advanced-y2020-21/blob/main/variant/variant_visitor.h)
-      - [variant_features.h](https://github.com/aslastin/ITMO-cpp-advanced-y2020-21/blob/main/variant/variant_features.h)
-      - [enable_special_members.h](https://github.com/aslastin/ITMO-cpp-advanced-y2020-21/blob/main/variant/enable_special_members.h)
-  
-- __shared_ptr__
-  - _Условие_ - реализовать свой `std::shared_ptr`
-  - Реализация: 
-      - [shared_ptr.h](https://github.com/aslastin/ITMO-cpp-advanced-y2020-21/blob/main/shared_ptr/shared_ptr.h)
-      - [shared_ptr.cpp](https://github.com/aslastin/ITMO-cpp-advanced-y2020-21/blob/main/shared_ptr/shared_ptr.cpp)
-
-- __function__
-  - _Условие_ - реализовать свой `std::function`
-  - Реализация: 
-      - [function.h](https://github.com/aslastin/ITMO-cpp-advanced-y2020-21/blob/main/function/function.h)
-
-- __optional__
-  - _Условие_ - реализовать свой `std::optional`
-  - Реализация: 
-      - [optional.h](https://github.com/aslastin/ITMO-cpp-advanced-y2020-21/blob/main/optional/optional.h)
-
-- __signal__
-  - _Условие_ - реализовать свой `std::signal`
-  - Реализация: 
-      - [signals.h](https://github.com/aslastin/ITMO-cpp-advanced-y2020-21/blob/main/signal/signals.h)
+- [variant](https://github.com/aslastin/ITMO-cpp-advanced-y2020-21/tree/main/variant)
+- [shared_ptr](https://github.com/aslastin/ITMO-cpp-advanced-y2020-21/tree/main/shared_ptr)
+- [function](https://github.com/aslastin/ITMO-cpp-advanced-y2020-21/tree/main/function)
+- [optional](https://github.com/aslastin/ITMO-cpp-advanced-y2020-21/tree/main/optional)
+- [signal](https://github.com/aslastin/ITMO-cpp-advanced-y2020-21/tree/main/signal)
